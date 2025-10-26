@@ -1,6 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
-
-# Hi 👋, I'm Matheus Ferreira
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E1A47&height=120&section=header"/>
 
 ### Estudante de Python em processo de especialização em Django.
 
