@@ -24,3 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusfs16&show_icons=true&locale=en" alt="matheusfs16" /></p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?matheusfs16=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
