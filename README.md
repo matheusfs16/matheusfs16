@@ -4,9 +4,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Play+fair+display&pause=1000&color=8243AE&width=435&lines=I'm+17+years+old)](https://git.io/typing-svg)
 # Estudante de Python em processo de especialização em Django.
 
-**Olá, eu sou o Matheus ferreira e estou em formação como desenvolvedor back-end, com foco em **Python** e **Django**.**
+**Olá, eu sou o Matheus Ferreira e estou em formação como desenvolvedor back-end, com foco em **Python** e **Django**.**
 
-**Tenho o sonho de um dia trabalhar como desenolvedor Back-End**
+**Tenho o sonho de um dia trabalhar como desenvolvedor Back-End**
 
 **Busco aprender novas linguagens e novos idiomas. No momento estou estudando francês e java**
 
