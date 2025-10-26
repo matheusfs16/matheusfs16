@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#9932CC&height=120&section=header"/>
 
-### Estudante de Python em processo de especialização em Django.
+##  ִֶָ. ..𓂃 ࣪ ִֶָ🦇་༘࿐Back-End Developer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Play+fair+display&pause=1000&color=8243AE&width=435&lines=I'm+17+years+old)](https://git.io/typing-svg)
+# Estudante de Python em processo de especialização em Django.
 
 **Olá, eu sou o Matheus ferreira e estou em formação como desenvolvedor back-end, com foco em **Python** e **Django**.**
 
